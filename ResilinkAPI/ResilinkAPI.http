@@ -1,0 +1,6 @@
+@ResilinkAPI_HostAddress = http://localhost:5248
+
+GET {{ResilinkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
